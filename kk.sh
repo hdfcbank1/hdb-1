@@ -1,2 +1,1 @@
-vnkvnnmsmlsm
-cmskmlcvmsakm
+git learning
